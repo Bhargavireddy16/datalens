@@ -1,0 +1,51 @@
+Order_ID,Date,Product_Name,Category,Region,Quantity,Unit_Price,Total_Revenue,Customer_Segment
+ORD-1001,2023-11-01,Wireless Noise-Canceling Headphones,Electronics,North America,2,299.99,599.98,Consumer
+ORD-1002,2023-11-02,Ergonomic Office Chair,Furniture,Europe,1,199.50,199.50,Corporate
+ORD-1003,2023-11-02,Mechanical Gaming Keyboard,Electronics,Asia Pacific,3,129.00,387.00,Consumer
+ORD-1004,2023-11-03,Stainless Steel Water Bottle,Home & Kitchen,North America,5,24.99,124.95,Consumer
+ORD-1005,2023-11-03,4K Ultra HD Smart TV,Electronics,Latin America,1,799.00,799.00,Consumer
+ORD-1006,2023-11-04,Yoga Mat,Fitness,Europe,4,35.00,140.00,Consumer
+ORD-1007,2023-11-04,Standing Desk,Furniture,North America,2,450.00,900.00,Corporate
+ORD-1008,2023-11-05,Bluetooth Speaker,Electronics,Asia Pacific,10,50.00,500.00,Small Business
+ORD-1009,2023-11-05,Running Shoes,Apparel,Europe,1,120.00,120.00,Consumer
+ORD-1010,2023-11-06,Smart Watch,Electronics,North America,2,199.99,399.98,Consumer
+ORD-1011,2023-11-06,Coffee Maker,Home & Kitchen,Latin America,1,85.00,85.00,Consumer
+ORD-1012,2023-11-07,Air Purifier,Home & Kitchen,Asia Pacific,3,150.00,450.00,Corporate
+ORD-1013,2023-11-07,Dumbbell Set,Fitness,North America,1,75.00,75.00,Consumer
+ORD-1014,2023-11-08,Laptop Stand,Accessories,Europe,8,45.00,360.00,Small Business
+ORD-1015,2023-11-08,Gaming Mouse,Accessories,North America,4,60.00,240.00,Consumer
+ORD-1016,2023-11-09,Winter Jacket,Apparel,Asia Pacific,2,150.00,300.00,Consumer
+ORD-1017,2023-11-09,Table Lamp,Furniture,Latin America,3,40.00,120.00,Consumer
+ORD-1018,2023-11-10,Tablet Case,Accessories,North America,5,25.00,125.00,Consumer
+ORD-1019,2023-11-10,Smart Home Hub,Electronics,Europe,1,129.99,129.99,Consumer
+ORD-1020,2023-11-11,Resistance Bands,Fitness,Asia Pacific,15,15.00,225.00,Small Business
+ORD-1021,2023-11-11,Desk Organizer,Accessories,North America,6,30.00,180.00,Corporate
+ORD-1022,2023-11-12,Monitor Arm,Accessories,Europe,2,90.00,180.00,Corporate
+ORD-1023,2023-11-12,Travel Backpack,Apparel,Latin America,1,85.00,85.00,Consumer
+ORD-1024,2023-11-13,Electric Toothbrush,Health & Beauty,North America,3,65.00,195.00,Consumer
+ORD-1025,2023-11-13,Protein Powder,Health & Beauty,Asia Pacific,4,45.00,180.00,Consumer
+ORD-1026,2023-11-14,Bookshelf,Furniture,Europe,1,120.00,120.00,Consumer
+ORD-1027,2023-11-14,Microphone,Electronics,North America,2,80.00,160.00,Consumer
+ORD-1028,2023-11-15,Webcam,Electronics,Asia Pacific,5,70.00,350.00,Corporate
+ORD-1029,2023-11-15,Mouse Pad,Accessories,Latin America,10,15.00,150.00,Small Business
+ORD-1030,2023-11-16,Treadmill,Fitness,North America,1,800.00,800.00,Consumer
+ORD-1031,2023-11-16,Blender,Home & Kitchen,Europe,2,95.00,190.00,Consumer
+ORD-1032,2023-11-17,Smart Light Bulbs,Home & Kitchen,Asia Pacific,8,20.00,160.00,Consumer
+ORD-1033,2023-11-17,Office Desk,Furniture,North America,2,250.00,500.00,Corporate
+ORD-1034,2023-11-18,External Hard Drive,Electronics,Europe,3,110.00,330.00,Corporate
+ORD-1035,2023-11-18,Sunglasses,Apparel,Latin America,2,150.00,300.00,Consumer
+ORD-1036,2023-11-19,Foam Roller,Fitness,North America,5,25.00,125.00,Consumer
+ORD-1037,2023-11-19,Robot Vacuum,Home & Kitchen,Asia Pacific,1,350.00,350.00,Consumer
+ORD-1038,2023-11-20,Action Camera,Electronics,Europe,2,250.00,500.00,Consumer
+ORD-1039,2023-11-20,Dress Shirt,Apparel,North America,4,45.00,180.00,Consumer
+ORD-1040,2023-11-21,Filing Cabinet,Furniture,Latin America,1,120.00,120.00,Corporate
+ORD-1041,2023-11-21,Portable Charger,Accessories,Asia Pacific,6,35.00,210.00,Consumer
+ORD-1042,2023-11-22,Wireless Mouse,Accessories,North America,8,40.00,320.00,Corporate
+ORD-1043,2023-11-22,Exercise Bike,Fitness,Europe,1,450.00,450.00,Consumer
+ORD-1044,2023-11-23,Slow Cooker,Home & Kitchen,Asia Pacific,2,60.00,120.00,Consumer
+ORD-1045,2023-11-23,Sneakers,Apparel,Latin America,3,90.00,270.00,Consumer
+ORD-1046,2023-11-24,VR Headset,Electronics,North America,1,400.00,400.00,Consumer
+ORD-1047,2023-11-24,Desk Chair,Furniture,Europe,4,150.00,600.00,Small Business
+ORD-1048,2023-11-25,HDMI Cable,Accessories,Asia Pacific,12,10.00,120.00,Corporate
+ORD-1049,2023-11-25,Winter Gloves,Apparel,North America,5,20.00,100.00,Consumer
+ORD-1050,2023-11-26,Toaster,Home & Kitchen,Latin America,2,35.00,70.00,Consumer
