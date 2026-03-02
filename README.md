@@ -1,5 +1,7 @@
 # DataLens: AI-Powered Data Intelligence Studio
 
+![DataLens Landing Page](./public/hero.png)
+
 DataLens is a full-stack, AI-powered web application that enables users to upload CSV files and automatically generate interactive visualizations and natural language insights. The platform abstracts away manual data parsing, aggregation, and charting, allowing users to immediately extract signals and insights from their raw datasets.
 
 ## Features
